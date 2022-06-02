@@ -1,0 +1,8 @@
+C:\Users\Lenovo\source\repos\Arithmeticoperation\Arithmeticoperation\bin\Debug\Arithmeticoperation.exe.config
+C:\Users\Lenovo\source\repos\Arithmeticoperation\Arithmeticoperation\bin\Debug\Arithmeticoperation.exe
+C:\Users\Lenovo\source\repos\Arithmeticoperation\Arithmeticoperation\bin\Debug\Arithmeticoperation.pdb
+C:\Users\Lenovo\source\repos\Arithmeticoperation\Arithmeticoperation\obj\Debug\Arithmeticoperation.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Arithmeticoperation\Arithmeticoperation\obj\Debug\Arithmeticoperation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\Arithmeticoperation\Arithmeticoperation\obj\Debug\Arithmeticoperation.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Arithmeticoperation\Arithmeticoperation\obj\Debug\Arithmeticoperation.exe
+C:\Users\Lenovo\source\repos\Arithmeticoperation\Arithmeticoperation\obj\Debug\Arithmeticoperation.pdb
