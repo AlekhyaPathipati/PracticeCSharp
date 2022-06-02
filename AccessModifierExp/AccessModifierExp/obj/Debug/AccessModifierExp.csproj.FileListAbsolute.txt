@@ -1,0 +1,8 @@
+C:\Users\Lenovo\source\repos\AccessModifierExp\AccessModifierExp\bin\Debug\AccessModifierExp.exe.config
+C:\Users\Lenovo\source\repos\AccessModifierExp\AccessModifierExp\bin\Debug\AccessModifierExp.exe
+C:\Users\Lenovo\source\repos\AccessModifierExp\AccessModifierExp\bin\Debug\AccessModifierExp.pdb
+C:\Users\Lenovo\source\repos\AccessModifierExp\AccessModifierExp\obj\Debug\AccessModifierExp.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\AccessModifierExp\AccessModifierExp\obj\Debug\AccessModifierExp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\AccessModifierExp\AccessModifierExp\obj\Debug\AccessModifierExp.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\AccessModifierExp\AccessModifierExp\obj\Debug\AccessModifierExp.exe
+C:\Users\Lenovo\source\repos\AccessModifierExp\AccessModifierExp\obj\Debug\AccessModifierExp.pdb
