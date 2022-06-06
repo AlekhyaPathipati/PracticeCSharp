@@ -8,7 +8,7 @@ namespace LinqProject1
 {
      class Class3
     {
-        //orderby
+        
         static void main()
         {
             int[] numbers = { 5, 7, 9, 13, 20, 7, 1, 10 };
